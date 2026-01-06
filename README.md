@@ -1,31 +1,4 @@
 
-<div align="center">
-  <svg width="854" height="180" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 180" style="z-index:1;position:relative">
-    <style>
-      .text { font-size: 52px; font-weight: 700; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }
-      .desc { font-size: 20px; font-weight: 500; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }
-      .text, .desc { animation: fadeIn 1.2s ease-in-out forwards; }
-      @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
-    </style>
-    <defs>
-      <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#285fdeff"/><stop offset="100%" stop-color="#00f2ffff"/>
-      </linearGradient>
-    </defs>
-    <g transform="translate(427, 90) scale(1, 1) translate(-427, -90)">
-      <path d="" fill="url(#linear)" opacity="0.4">
-        <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z;M0 0L 0 125Q 213.5 140 427 120T 854 110L 854 0 Z;M0 0L 0 145Q 213.5 115 427 145T 854 110L 854 0 Z;M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z"></animate>
-      </path>
-      <path d="" fill="url(#linear)" opacity="0.4">
-        <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z;M0 0L 0 130Q 213.5 100 427 100T 854 120L 854 0 Z;M0 0L 0 125Q 213.5 105 427 130T 854 145L 854 0 Z;M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z"></animate>
-      </path>
-    </g>
-    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="35%" class="text" style="fill:#ffffff;" stroke="none" stroke-width="1">Madhan</text>
-    <image href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" x="62%" y="18%" height="42" width="42" />
-    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="65%" class="desc" style="fill:#ffffff;">Machine Learning • Full-Stack (MERN/Next.js)</text>
-  </svg>
-</div>
-
 ---
 
 <div align="center">
