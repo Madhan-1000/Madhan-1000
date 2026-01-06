@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
   <svg width="854" height="180" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 180" style="z-index:1;position:relative">
     <style>
@@ -146,7 +146,4 @@ I'm currently studying as a CS student 2nd year and I am looking to learn AI and
 ![](https://github-readme-stats.vercel.app/api?username=Madhan-1000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Madhan-1000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan-1000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
->>>>>>> fac8e2abea149a8dff8088ff3836e7722407a1c3
-
----
 
