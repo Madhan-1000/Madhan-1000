@@ -1,3 +1,140 @@
+<<<<<<< HEAD
+<div align="center">
+  <svg width="854" height="180" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 180" style="z-index:1;position:relative">
+    <style>
+      .text { font-size: 52px; font-weight: 700; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }
+      .desc { font-size: 20px; font-weight: 500; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }
+      .text, .desc { animation: fadeIn 1.2s ease-in-out forwards; }
+      @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    </style>
+    <defs>
+      <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#285fdeff"/><stop offset="100%" stop-color="#00f2ffff"/>
+      </linearGradient>
+    </defs>
+    <g transform="translate(427, 90) scale(1, 1) translate(-427, -90)">
+      <path d="" fill="url(#linear)" opacity="0.4">
+        <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z;M0 0L 0 125Q 213.5 140 427 120T 854 110L 854 0 Z;M0 0L 0 145Q 213.5 115 427 145T 854 110L 854 0 Z;M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z"></animate>
+      </path>
+      <path d="" fill="url(#linear)" opacity="0.4">
+        <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z;M0 0L 0 130Q 213.5 100 427 100T 854 120L 854 0 Z;M0 0L 0 125Q 213.5 105 427 130T 854 145L 854 0 Z;M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z"></animate>
+      </path>
+    </g>
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="35%" class="text" style="fill:#ffffff;" stroke="none" stroke-width="1">Madhan</text>
+    <image href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" x="62%" y="18%" height="42" width="42" />
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="65%" class="desc" style="fill:#ffffff;">Machine Learning • Full-Stack (MERN/Next.js)</text>
+  </svg>
+</div>
+
+---
+
+<div align="center">
+  <p>Building ML systems and shipping full-stack apps.</p>
+  <p>
+    <a href="https://www.linkedin.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:YOUR_EMAIL_ID"><img alt="Email" src="https://img.shields.io/badge/Email-EE4C2C.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://github.com/Madhan-1000"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  </p>
+  <p>
+    <img alt="Followers" src="https://img.shields.io/github/followers/Madhan-1000?style=for-the-badge&color=285fdeff&label=Followers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/Madhan-1000?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00f2ff&label=Stars">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Madhan-1000&style=for-the-badge&color=0a66c2">
+  </p>
+</div>
+
+---
+
+<h2 align="center">About</h2>
+<p align="center">
+  CS undergrad @ JNDUCP. Learning deeply in ML/LLMs and building production-ready web apps.
+</p>
+<p align="center">
+  Focus: ML fundamentals, clean APIs, and shipping polished products.
+</p>
+
+---
+
+<h2 align="center" style="display:flex;justify-content:center;align-items:center;gap:10px;">
+  <img src="assets/code-icon.svg" alt="Code" height="36" />
+  <span>Tech Stack</span>
+</h2>
+
+<div align="left"><b>🚀 Programming Languages</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-444444?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+</div>
+
+<div align="left"><b>🌐 Web & Backend</b><br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Shadcn-0EA5E9?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn" />
+  <img src="https://img.shields.io/badge/Jinja-CC0000?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+</div>
+
+<div align="left"><b>🤖 Machine Learning & Data</b><br/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+</div>
+
+<div align="left"><b>🧰 Tools & Platforms</b><br/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase" />
+</div>
+
+<div align="left"><b>🗄️ Databases</b><br/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
+</div>
+
+<div align="left"><b>☁️ Deployment</b><br/>
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+</div>
+
+---
+
+<h2 align="center">Activity & Metrics</h2>
+<div align="center" style="margin-top:8px;">
+  <img height="160" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Madhan-1000&theme=github_dark" />
+  <img height="160" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhan-1000&theme=github_dark" />
+</div>
+<div align="center" style="margin-top:12px;">
+  <img height="160" alt="Commit Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Madhan-1000&theme=dark&hide_border=true" />
+</div>
+<div align="center" style="margin-top:12px;">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan-1000&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+<h2 align="center">LeetCode</h2>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Madhan-2?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" />
+  <br />
+  <a href="https://leetcode.com/u/Madhan-2/">leetcode.com/u/Madhan-2</a>
+</div>
+=======
 ## Hi there 👋
 # 💫 About Me:
 I'm currently studying as a CS student 2nd year and I am looking to learn AI and ML and I learnt webdevelopment
@@ -9,8 +146,7 @@ I'm currently studying as a CS student 2nd year and I am looking to learn AI and
 ![](https://github-readme-stats.vercel.app/api?username=Madhan-1000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Madhan-1000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan-1000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+>>>>>>> fac8e2abea149a8dff8088ff3836e7722407a1c3
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Madhan-1000&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
