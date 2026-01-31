@@ -21,7 +21,7 @@
 
 <p align="center"><img src="./line_bar.gif" alt="section divider" /></p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=Aiming+to+become+the+strongest+programmer+on+planet.;Constantly+learning+new+things;Competetive+programming+till+my+memory+runs+out;Building+projects+inspired+from+creative+thoughts.;Always+looking+in+new+ways+to+do+research+on+Computer+Science." /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=Aiming+to+become+the+strongest+programmer+on+planet.;Constantly+learning+new+things;Competetive+programming+till+my+memory+runs+out;Building+projects+inspired+from+creative+thoughts.;" /> </p>
 
 
 <p align="center"><img src="./line_bar.gif" alt="section divider" /></p>
