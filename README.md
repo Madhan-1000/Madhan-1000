@@ -59,7 +59,7 @@
 
 ## 🌐 CONNECT WITH ME
 
-<p align="center"> <a href="https://www.linkedin.com/in/harishdevs/"> <img src="./assets/badge-linkedin.svg"/> </a> <a href="mailto:MadhanReddy.exe@@gmail.com"> <img src="./assets/badge-gmail.svg"/> </a> <a href="https://harish-dev-portfolio.web.app/"> <img src="./assets/badge-portfolio.svg"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/madhan-aturu-174287358/"> <img src="./assets/badge-linkedin.svg"/> </a> <a href="mailto:MadhanReddy.exe@gmail.com"> <img src="./assets/badge-gmail.svg"/> </a> <a href=""> <img src="./assets/badge-portfolio.svg"/> </a> </p>
 
 
 <p align="center"><img src="./line_bar.gif" alt="section divider" /></p>
